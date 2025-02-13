@@ -22,7 +22,7 @@
     <parent>
         <groupId>org.jahia.modules</groupId>
         <artifactId>jahia-modules</artifactId>
-        <version>8.2.0.0</version>
+        <version>8.2.0.7</version>
         <relativePath />
     </parent>
 
